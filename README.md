@@ -34,8 +34,8 @@ A responsive web application to view historical currency exchange rates with int
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Sakshi3114/currency-exchange-rate-viewer.git
-   cd currency-exchange-rate-viewer
+   cd currency-chart
    npm install
    npm run dev
    visit http://localhost:5173
-   
+
