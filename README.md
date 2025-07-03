@@ -2,6 +2,10 @@
 
 A responsive web application to view historical currency exchange rates with interactive line/bar charts.
 
+## 🔗 Live Demo
+
+👉 [Check it out on Vercel](https://currency-exchange-rate-viewer.vercel.app/)
+
 ## 🔧 Features
 
 - Select base and target currencies
